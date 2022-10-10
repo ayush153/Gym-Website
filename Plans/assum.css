@@ -1,0 +1,63 @@
+h1{
+    text-align:start;
+    background-color:rgba(128, 128, 128, 0.301);
+    padding: 10px;
+    border: solid rgba(194, 185, 185, 0.692) 2px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+/* h1{
+    float: left;
+    background-image: url("https://www.nicepng.com/png/detail/74-748584_hp-logo-hp-logo-png-transparent.png");
+    border-radius: 30px;
+} */
+
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6nJk6_0Neaglkvdo53YQs3UOK7TIb_dXfg&usqp=CAU");
+    background-repeat: no-repeat;
+    background-position:right;
+    background-size:50%;
+    background-attachment: scroll;
+}
+
+.head{
+    background-size: cover;
+    overflow: hidden;
+}
+
+.frm , .submit{
+    display: block;
+    text-align: left;
+    /* background-image: url(""); */
+    padding: 25px;
+    font-weight: bold;
+    font-size: large;
+    background-color:rgba(128, 128, 128, 0.301);
+}
+
+.frm{
+    border-radius: 20px;
+    padding: 15px 20px 15px 15px;
+    border: 5px solid white;
+    cursor:auto;
+    margin-left: 50px;
+    margin-right: 850px;
+}
+
+#ar{
+    box-sizing:content-box;
+    border-radius: 10px;
+    border-color: black;
+    padding: 10px;
+    background-color:rgb(255, 255, 255);
+    cursor:grabbing;
+    margin-left: 30px;
+}
+
+.submit{
+    text-align: center;
+    padding: 10px;
+    padding-top: 10px;
+    box-shadow: 100px;
+    overflow: hidden;
+}
