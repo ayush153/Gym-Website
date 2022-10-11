@@ -4,6 +4,7 @@
         margin: 0px;
         padding: 0px;
         background: url('img/gym1.jpg');
+        box-shadow: 20px 20px 100px 50px rgb(83, 82, 82);
         background-position: center;
         background-size: 2100px;
         background-repeat: no-repeat;
@@ -15,6 +16,8 @@
         border: 2px solid red;
         position: absolute;
         left: 60px;
+        box-shadow: 20px 20px 100px 50px rgb(83, 82, 82);
+        border: 2px solid white;
         top: 20px;
     }
 
